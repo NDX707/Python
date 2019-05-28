@@ -1,6 +1,5 @@
-# Python
-## To Use
-### WikiQuerySpeech.py
+# Python 
+### To Use WikiQuerySpeech.py
 ```bash
   pip install wikipedia
 ```  
